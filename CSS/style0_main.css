@@ -138,18 +138,22 @@ header {
 }
 
 .view-work {
-    width: 10em;
+    width: 24vw;
     padding: 0.5em 1em;
     background-color: transparent;
-    font-size: 2em;
+    font-size: 2.5vw;
     /* background-color: rgb(50, 50, 50); */
     border: black solid 3px;
     border-radius: 10px;
     position: absolute;
     top: 65vh;
-    left: 40vw;
-    right: 40vw;
+    /* left: 40vw;
+    right: 40vw; */
+    left: 40%;
+    /* margin-left: -50%; */
     font-weight: 900;
+    align-content: center;
+    text-align: center;
 }
 
 .view-work:hover,
