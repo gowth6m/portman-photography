@@ -154,6 +154,7 @@ header {
     align-content: center;
     text-align: center;
     /* box-shadow: black 2px 2px; */
+    cursor: pointer;
 }
 
 .view-work:hover,
